@@ -1,0 +1,34 @@
+Intermediate Programming 601.220 Midterm Project 10/06/2017
+Randy Kuang rkuang2 rkuang2@jhu.edu
+Justin Huang jhuan104
+
+1. To compile the program, we used the command "make" and the Makefile took
+care of the specifics. Then to actually run the program, we used the command
+"./main".
+
+Additional Comments:
+-In our Makefile, we included the flag "-O2". This flag shortens the runtime
+of our program which is beneficial because functions such as sharpen, blur,
+and edge detection otherwise take up to 25 seconds to run. However, I just
+wanted to note that even with this flag, using valgrind can still take up to
+5 minutes if the user uses the sharpen function with large sigma/intensity
+parameters.
+
+-There are a lot of places where errors of occur and it is possible we didn't
+catch everything. We included error detection tests at the following places:
+      a. if the user tries to read from a file that doesn't exist
+      b. if reading or writing an image fails
+      c. if the parameters given for a function are correct but the
+      	 parameters would cause an error; an example would be cropping
+	 outside the boundaries of an image or trying to use the contrast
+	 function with a paramter of 0
+      d. if the user tries to use any of the functions before reading in a
+      	 file first
+      e. if the user gives incorrect parameters; an example would be giving
+      	 a string when the function is expecting an int as a parameter
+
+-We also implemented functions in menuUtil that remove possible spaces and
+newlines that the user put between function calls and parameters
+
+
+

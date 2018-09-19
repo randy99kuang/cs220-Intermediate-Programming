@@ -1,0 +1,325 @@
+commit 2b9373c4ea3754149485b4d1c5667cd0bcf97342
+Author: Randy Kuang <ipf17044@ugradx.cs.jhu.edu>
+Date:   Mon Oct 16 17:45:50 2017 -0400
+
+    ran valgrind, found some leaks, fixed those leaks, now definetely ready for submission
+
+commit 59fccc0abf85329b06e882b1a7465232d8180df2
+Author: Randy Kuang <ipf17044@ugradx.cs.jhu.edu>
+Date:   Mon Oct 16 17:16:02 2017 -0400
+
+    updated README file, should be ready for submission now
+
+commit e604a6325a727b6d7c3527e3988bc4cc3ae264c0
+Author: Randy Kuang <ipf17044@ugradx.cs.jhu.edu>
+Date:   Mon Oct 16 17:06:04 2017 -0400
+
+    final bug fixes, everything works i think
+
+commit 1f8af1f3ad8897556c42876097e01a259030a5b8
+Author: Randy Kuang <ipf17044@ugradx.cs.jhu.edu>
+Date:   Mon Oct 16 16:40:09 2017 -0400
+
+    fixed more bugs in menuUtil.c
+
+commit d89ec5056373875b9da044a4c158e8e4fdc2eb22
+Author: Randy Kuang <ipf17044@ugradx.cs.jhu.edu>
+Date:   Mon Oct 16 14:48:00 2017 -0400
+
+    done
+
+commit c701c79972e02c97b3d1e4738ade47e405cd32bb
+Author: Randy Kuang <ipf17044@ugradx.cs.jhu.edu>
+Date:   Mon Oct 16 14:38:53 2017 -0400
+
+    small edits
+
+commit 02bc4de376a02c08fe1222b54c333baa9045838f
+Author: Randy Kuang <ipf17044@ugradx.cs.jhu.edu>
+Date:   Mon Oct 16 14:32:36 2017 -0400
+
+    small edits to menu function
+
+commit b4bd37cb0be8e8bd62668576999497e34c6bf299
+Author: Randy Kuang <ipf17044@ugradx.cs.jhu.edu>
+Date:   Mon Oct 16 12:38:44 2017 -0400
+
+    finished adding every option to menuUtil
+
+commit fd1439180c6216c342a141f51f7d5389aa7062a7
+Author: Justin Huang <jhuan104@jhu.edu>
+Date:   Sun Oct 15 23:25:40 2017 -0400
+
+    git log
+
+commit 9a1bdf040e2bd32ec8fa44cf2ec6bbb67be67218
+Author: Justin Huang <jhuan104@jhu.edu>
+Date:   Sun Oct 15 23:24:52 2017 -0400
+
+    all image manip done and valgrind checked
+
+commit 71ea5b1bd919ebf0b8e5516190e37960f8704c29
+Author: Justin Huang <jhuan104@jhu.edu>
+Date:   Sun Oct 15 02:07:21 2017 -0400
+
+    edge-detect test pics
+
+commit 488918ed1a2340b57d4100412c6637eecd700864
+Merge: 65240b8 c241a06
+Author: Justin Huang <jhuan104@jhu.edu>
+Date:   Sun Oct 15 02:05:45 2017 -0400
+
+    edge-detection finished
+
+commit 65240b838107ad9f9bcf5b660e08916dfb2b6db6
+Author: Justin Huang <jhuan104@jhu.edu>
+Date:   Sun Oct 15 01:55:43 2017 -0400
+
+    completed edge detection
+
+commit c241a06115c541c6945c55019f557b8d56fb96d7
+Author: Randy Kuang <ipf17044@ugradx.cs.jhu.edu>
+Date:   Sat Oct 14 20:27:06 2017 -0400
+
+    accidentally deleted nika.ppm, adding it back
+
+commit 19b1c31fccaba2df116b0fc54f84c58c42cde037
+Author: Randy Kuang <ipf17044@ugradx.cs.jhu.edu>
+Date:   Sat Oct 14 20:18:29 2017 -0400
+
+    more small bug fixes
+
+commit 2e4458012919a5420de884de08585b66006ff2a2
+Author: Randy Kuang <ipf17044@ugradx.cs.jhu.edu>
+Date:   Sat Oct 14 19:45:33 2017 -0400
+
+    debugging menuUtil
+
+commit ee73b2ace3ab9fc823405279559fbc3faecf58ff
+Merge: 1286634 bdd0e49
+Author: Justin Huang <jhuan104@jhu.edu>
+Date:   Sat Oct 14 16:40:59 2017 -0400
+
+    Merge branch 'master' of https://bitbucket.org/jhuan104/cs220midtermproject
+
+commit 12866340fa348ef8cd9dbe35b2447ef9d4b2c019
+Author: Justin Huang <jhuan104@jhu.edu>
+Date:   Sat Oct 14 16:39:21 2017 -0400
+
+    broken edge detection
+
+commit bdd0e492695642a837a757affd10e1fc2b17208c
+Author: Randy Kuang <ipf17044@ugradx.cs.jhu.edu>
+Date:   Sat Oct 14 16:33:09 2017 -0400
+
+    added in menuUtil options until sharpening
+
+commit 591948188abf0405a584776e41ee887573eb0de8
+Author: Randy Kuang <ipf17044@ugradx.cs.jhu.edu>
+Date:   Sat Oct 14 16:24:16 2017 -0400
+
+    added in menuUtil options up until contrast
+
+commit 16ade77250e6ccd8cd31b7c12ee701565be2246d
+Author: Randy Kuang <ipf17044@ugradx.cs.jhu.edu>
+Date:   Sat Oct 14 15:44:22 2017 -0400
+
+    adding in menuUtil stuff
+
+commit 01279b0be8ecd4ffdd89838c9d36f01bda4edd21
+Author: Randy Kuang <ipf17044@ugradx.cs.jhu.edu>
+Date:   Sat Oct 14 14:41:25 2017 -0400
+
+    sharpen function now works
+
+commit d02250e0ed1e2b6d28422112b83ca4f31bd4e9fc
+Author: Randy Kuang <ipf17044@ugradx.cs.jhu.edu>
+Date:   Sat Oct 14 13:05:10 2017 -0400
+
+    blur function works now!
+
+commit d964ea41a8271fd165587aaf95ed62604ed03c96
+Author: Justin Huang <jhuan104@jhu.edu>
+Date:   Sat Oct 14 12:15:00 2017 -0400
+
+    blurred pics
+
+commit bce98ab9d1e07baa74c44b674a91f11f3521e2a7
+Author: Justin Huang <jhuan104@jhu.edu>
+Date:   Fri Oct 13 20:25:11 2017 -0400
+
+    still broken blur with no memory leaks
+
+commit 1387d29d9bef42e24f43135cefa5a0fbc30fcd98
+Author: Justin Huang <jhuan104@jhu.edu>
+Date:   Fri Oct 13 19:11:51 2017 -0400
+
+    broken blur done
+
+commit 9399ce5515d4dd9987d10da1931de67dd2f924f3
+Author: Randy Kuang <ipf17044@ugradx.cs.jhu.edu>
+Date:   Fri Oct 13 15:46:32 2017 -0400
+
+    added function to create gaussian matrix and started function to get blurred values for one pixel
+
+commit 47d6deb770660124bd1aaefc4fefeb576bbf1b38
+Author: Randy Kuang <ipf17044@ugradx.cs.jhu.edu>
+Date:   Fri Oct 13 15:10:05 2017 -0400
+
+    fixed leak
+
+commit d995f00d76cd5df4c2415ea0a3bf24384da96ac4
+Author: Randy Kuang <ipf17044@ugradx.cs.jhu.edu>
+Date:   Fri Oct 13 15:08:50 2017 -0400
+
+    trying to fix leak
+
+commit 2d168a84af92fea0b713263bf410e229068355f0
+Author: Justin Huang <jhuan104@jhu.edu>
+Date:   Thu Oct 12 17:35:26 2017 -0400
+
+    finished contrast
+
+commit 9c2cda7ce44bf915132c9ee44ba418a115fbc6eb
+Author: Randy Kuang <ipf17044@ugradx.cs.jhu.edu>
+Date:   Thu Oct 12 11:53:07 2017 -0400
+
+    now actually added README
+
+commit 914babb73b7f3c74a3b1ffbb572e6c1fa6a3b362
+Author: Randy Kuang <ipf17044@ugradx.cs.jhu.edu>
+Date:   Thu Oct 12 11:51:45 2017 -0400
+
+    accidentally named README README.txt
+
+commit 9b6a261708d77c782ee8d8593fabb71678e80d50
+Author: Randy Kuang <ipf17044@ugradx.cs.jhu.edu>
+Date:   Wed Oct 11 19:40:10 2017 -0400
+
+    added the crop function, it works
+
+commit 59ac5308b3df199fa06a2749fc3f5088a5126c21
+Author: Justin Huang <jhuan104@jhu.edu>
+Date:   Wed Oct 11 14:12:48 2017 -0400
+
+    fixed brightness adjust
+
+commit a7404a5f62b6d3d04643f867c78a02cdfeecbd79
+Author: Justin Huang <jhuan104@jhu.edu>
+Date:   Wed Oct 11 13:52:55 2017 -0400
+
+    still trying to get brightness adjustment to work
+
+commit 51128d21e3f2afcc2b5e8435a79c7c56641582de
+Author: Justin Huang <jhuan104@jhu.edu>
+Date:   Wed Oct 11 11:30:16 2017 -0400
+
+    grayscale done, brightness adjust still wrong
+
+commit c075490b8457a6e6d9fff852c06bf4f7a0b0cc21
+Author: Justin Huang <jhuan104@jhu.edu>
+Date:   Mon Oct 9 18:39:40 2017 -0400
+
+    adjusting brightness almost done
+
+commit cf991d164f6a85db9937d1bcad7d86f943384583
+Author: Justin Huang <jhuan104@jhu.edu>
+Date:   Mon Oct 9 18:27:40 2017 -0400
+
+    preliminary swap and brighten
+
+commit cb5d780ba5103dae2ba0187e84fb0f07e7ac682f
+Author: Randy Kuang <ipf17044@ugradx.cs.jhu.edu>
+Date:   Mon Oct 9 16:00:14 2017 -0400
+
+    added a print_menu function to menuUtil.c
+
+commit e12ee9f0eb2d267c0ad84a046833c222d32e64c8
+Author: Justin Huang <jhuan104@jhu.edu>
+Date:   Mon Oct 9 15:21:01 2017 -0400
+
+    deleted files
+
+commit 9dbeb5492febe22e25f07f453745adf315fdf3a4
+Author: Justin Huang <jhuan104@jhu.edu>
+Date:   Mon Oct 9 15:20:02 2017 -0400
+
+    Updated makefile to make main as executable file
+
+commit ca0141344b7666543e179a357f844563855a94e1
+Author: Randy Kuang <ipf17044@ugradx.cs.jhu.edu>
+Date:   Mon Oct 9 15:11:13 2017 -0400
+
+    quick update to ppmIO
+
+commit 1d28ba4cab11e5eefde263f045e9c360573745f0
+Author: Randy Kuang <ipf17044@ugradx.cs.jhu.edu>
+Date:   Mon Oct 9 15:00:00 2017 -0400
+
+    one more comment
+
+commit 43e68315baabfd7d25ed4d182a3897463e58b0e3
+Author: Randy Kuang <ipf17044@ugradx.cs.jhu.edu>
+Date:   Mon Oct 9 14:55:24 2017 -0400
+
+    added some comments to all the files, nothing major
+
+commit 857fd21ce4381966982b78fb1d038897ac9e1b77
+Author: Randy Kuang <ipf17044@ugradx.cs.jhu.edu>
+Date:   Sat Oct 7 20:09:29 2017 -0400
+
+    small changes, nothing important
+
+commit 4f106db7b49fb8aeadd605447f882b00deca94b2
+Author: Randy Kuang <ipf17044@ugradx.cs.jhu.edu>
+Date:   Sat Oct 7 19:21:35 2017 -0400
+
+    adding some miscellaenous files
+
+commit 9149b3a116729d1131305f42a69d2a2eec880f02
+Author: Randy Kuang <ipf17044@ugradx.cs.jhu.edu>
+Date:   Sat Oct 7 19:20:00 2017 -0400
+
+    finished the read in function
+
+commit 430fb5da9dffd10bedf23201e682d5bd943370cd
+Author: Randy Kuang <ipf17044@ugradx.cs.jhu.edu>
+Date:   Fri Oct 6 19:38:21 2017 -0400
+
+    working on the read function, almost done
+
+commit 54dd866049dd036eedb9d1407327a4c71c2d9e59
+Author: Randy Kuang <ipf17044@ugradx.cs.jhu.edu>
+Date:   Fri Oct 6 18:23:39 2017 -0400
+
+    small comments
+
+commit 4f04ebb29719f92429f83eb80923558f25e7e02e
+Author: Randy Kuang <ipf17044@ugradx.cs.jhu.edu>
+Date:   Fri Oct 6 18:21:40 2017 -0400
+
+    adding in all the .o files, this isn't really necessary
+
+commit 99a7b8423f27479246b9d3dba95fbf188b861082
+Author: Randy Kuang <ipf17044@ugradx.cs.jhu.edu>
+Date:   Fri Oct 6 18:20:29 2017 -0400
+
+    added actual content to the Makefile, everything in it works except clean
+
+commit 6c3b5f4ff800140a3a5b4bcf68fea8d741734440
+Author: Randy Kuang <ipf17044@ugradx.cs.jhu.edu>
+Date:   Fri Oct 6 17:44:05 2017 -0400
+
+    renamed README to README.txt
+
+commit aee15bbea49e58f91002f54042fc8eb98dd7510a
+Author: Randy Kuang <ipf17044@ugradx.cs.jhu.edu>
+Date:   Fri Oct 6 17:43:14 2017 -0400
+
+    creating all the necessary files for the midterm project
+
+commit 814d068f71cee0fd5e470e5617873043606cf6cd
+Author: Justin Huang <jhuan104@jhu.edu>
+Date:   Mon Oct 2 15:18:49 2017 -0400
+
+    Initial commit
